@@ -3,6 +3,8 @@
 WARNING !!! 
   In this project, artificial intelligence was used to write clean code and create a README file.
 
+KAGGLE NOTEBOOK LINK: https://www.kaggle.com/code/doukantahatra/heart-disease-aygaz
+
 This project involves building and evaluating machine learning models to predict heart disease using a dataset containing various health-related features. The analysis utilizes regression and classification techniques to assess model performance.
 
 ## Table of Contents
