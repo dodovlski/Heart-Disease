@@ -11,9 +11,6 @@ This project involves building and evaluating machine learning models to predict
 - [Dataset](#dataset)
 - [Technologies Used](#technologies-used)
 - [Model Evaluation](#model-evaluation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
